@@ -20,10 +20,17 @@
 
 <h3 align="left">💻 GitHub Stats</h3>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorAlba&layout=compact&theme=dark&card_width=350" alt="Top Languages"/>
-  
-</p>
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuniorAlba&theme=great-gatsby&hide_border=true" style="width: 40%;" alt="Streak Stats"/>
+</div>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=JuniorAlba&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true" style="width: 40%;" alt="GitHub Stats"/>
+</div>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorAlba&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact" style="width: 40%;" alt="Top Languages"/>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JuniorAlba&label=Profile%20views&color=ff6000&style=flat" alt="JuniorAlba" /> </p>
 
 </p>
