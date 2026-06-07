@@ -66,14 +66,20 @@
 
 ## Featured Projects
 
-<a href="https://github.com/JuniorAlba/TrabajoFinal-POO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuniorAlba&repo=TrabajoFinal-POO&theme=great-gatsby&hide_border=true" />
+<a href="https://github.com/JuniorAlba/ControlGimnasios-GUI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuniorAlba&repo=ControlGimnasios-GUI&theme=great-gatsby&hide_border=true" />
 </a>
-<a href="https://github.com/JuniorAlba/Trabajo-Final-ElectronicaDigital">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuniorAlba&repo=Trabajo-Final-ElectronicaDigital&theme=great-gatsby&hide_border=true" />
+<a href="https://github.com/JuniorAlba/Contador-Estacionamiento-fpga">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuniorAlba&repo=Contador-Estacionamiento-fpga&theme=great-gatsby&hide_border=true" />
 </a>
-<a href="https://github.com/JuniorAlba/Parsing-GPS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuniorAlba&repo=Parsing-GPS&theme=great-gatsby&hide_border=true" />
+<a href="https://github.com/JuniorAlba/GPS-Embebido-riscv-assembly">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuniorAlba&repo=GPS-Embebido-riscv-assembly&theme=great-gatsby&hide_border=true" />
+</a>
+<a href="https://github.com/JuniorAlba/Argentinatur-Multiparadigma">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuniorAlba&repo=Argentinatur-Multiparadigma&theme=great-gatsby&hide_border=true" />
+</a>
+<a href="https://github.com/JuniorAlba/Simulacion-Reticulado-Elastico">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuniorAlba&repo=Simulacion-Reticulado-Elastico&theme=great-gatsby&hide_border=true" />
 </a>
 
 ---
