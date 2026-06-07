@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Junior Albarenque</h1>
+<h1>Hi, I'm Junior Albarenque</h1>
 
 <h3>Advanced Computer Engineering Student · Paraná, Argentina 🇦🇷</h3>
 
@@ -80,9 +80,9 @@
 
 ## Certifications & Events
 
-| Certification　　　　　　　　　　　　　　　　 | Institution | Date     |
-| :----------------------------------------------| :------------| :--------:|
-| Iniciación al Desarrollo con IA　　　　　　　 | BIG school  | Feb 2026 |
+| Certification                              | Institution | Date     |
+| :-------------------------------------------| :------------| :--------:|
+| Iniciación al Desarrollo con IA            | BIG school  | Feb 2026 |
 | Ciclo de Vida de un Proyecto Internacional | Folder IT   | Oct 2024 |
 
 ---
