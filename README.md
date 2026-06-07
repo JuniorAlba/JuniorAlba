@@ -64,23 +64,16 @@
 
 ---
 
-## Featured Projects
 
-<a href="https://github.com/JuniorAlba/ControlGimnasios-GUI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuniorAlba&repo=ControlGimnasios-GUI&theme=great-gatsby&hide_border=true" />
-</a>
-<a href="https://github.com/JuniorAlba/Contador-Estacionamiento-fpga">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuniorAlba&repo=Contador-Estacionamiento-fpga&theme=great-gatsby&hide_border=true" />
-</a>
-<a href="https://github.com/JuniorAlba/GPS-Embebido-riscv-assembly">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuniorAlba&repo=GPS-Embebido-riscv-assembly&theme=great-gatsby&hide_border=true" />
-</a>
-<a href="https://github.com/JuniorAlba/Argentinatur-Multiparadigma">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuniorAlba&repo=Argentinatur-Multiparadigma&theme=great-gatsby&hide_border=true" />
-</a>
-<a href="https://github.com/JuniorAlba/Simulacion-Reticulado-Elastico">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuniorAlba&repo=Simulacion-Reticulado-Elastico&theme=great-gatsby&hide_border=true" />
-</a>
+##  Featured Projects
+
+| Project                                                                                         | Description                                                                                                   | Stack                             |
+| :------------------------------------------------------------------------------------------------| :--------------------------------------------------------------------------------------------------------------| :----------------------------------|
+| [ ControlGimnasios-GUI](https://github.com/JuniorAlba/ControlGimnasios-GUI)                     | Desktop app for gym management with GUI and binary/text file persistence                                      | C++, wxWidgets, OOP               |
+| [ Contador-Estacionamiento-fpga](https://github.com/JuniorAlba/Contador-Estacionamiento-fpga)   | Real-time vehicle counter on FPGA using Karnaugh-optimized FSMs and photoelectric sensors                     | Verilog, FPGA EDU-CIAA, Testbench |
+| [ GPS-Embebido-riscv-assembly](https://github.com/JuniorAlba/GPS-Embebido-riscv-assembly)       | Hybrid ESP32-C3 system for GPS data acquisition with low-level RISC-V Assembly routines                       | C, Assembler RISC-V, ESP32        |
+| [ Argentinatur-Multiparadigma](https://github.com/JuniorAlba/Argentinatur-Multiparadigma)       | Tourist transport system implemented in 3 paradigms: functional (Racket), logic (Prolog) and OOP (Python)     | Racket, Prolog, Python            |
+| [ Simulacion-Reticulado-Elastico](https://github.com/JuniorAlba/Simulacion-Reticulado-Elastico) | Numerical simulation of a 15-node planar elastic truss under dynamic load, large vs. small deformation models | Octave, MATLAB                    |
 
 ---
 
