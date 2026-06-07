@@ -4,7 +4,7 @@
 
 <h3>Advanced Computer Engineering Student · Paraná, Argentina 🇦🇷</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F78C40&center=true&vCenter=true&width=640&lines=4th+year+Computer+Engineering+%40+UNL;Embedded+Systems+%7C+Databases+%7C+OOP;C%2B%2B+%7C+Python+%7C+PostgreSQL+%7C+Verilog;Always+learning+%26+building+new+things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F78C40&center=true&vCenter=true&width=640&lines=4th+year+Computer+Engineering+%40+UNL;Embedded+Systems+%7C+Databases+%7C+POO;C%2B%2B+%7C+Python+%7C+PostgreSQL+%7C+Verilog" alt="Typing SVG" />
 
 <br/><br/>
 
