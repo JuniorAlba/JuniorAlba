@@ -24,17 +24,16 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
-- 🎓 **4th year** of **Ingeniería en Informática** at [FICH – UNL](https://www.fich.unl.edu.ar/), Santa Fe, Argentina
-- 🎓 **Técnico en Computación** – EET N°3, Paraná, Entre Ríos (2021)
-- 🔧 Freelance **IT Technician** since 2019 — hardware assembly, diagnostics, OS configuration
-- 🌱 Currently studying **Digital Signal Processing**, **Continuum Mechanics** and **OS internals**
-- 💼 Open to **junior backend developer** opportunities
+- **4th year** of **Ingeniería en Informática** at [FICH – UNL](https://www.fich.unl.edu.ar/), Santa Fe, Argentina
+- **Técnico en Computación** – EET N°3, Paraná, Entre Ríos (2021)
+- Freelance **IT Technician** since 2019 — hardware assembly, diagnostics, OS configuration
+- Open to **junior backend developer** opportunities
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -65,7 +64,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <a href="https://github.com/JuniorAlba/TrabajoFinal-POO">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuniorAlba&repo=TrabajoFinal-POO&theme=great-gatsby&hide_border=true" />
@@ -79,12 +78,12 @@
 
 ---
 
-## 📜 Certifications & Events
+## Certifications & Events
 
 | Certification　　　　　　　　　　　　　　　　 | Institution | Date     |
 | :----------------------------------------------| :------------| :--------:|
-| 🤖 Iniciación al Desarrollo con IA　　　　　　| BIG school  | Feb 2026 |
-| 🌐 Ciclo de Vida de un Proyecto Internacional | Folder IT   | Oct 2024 |
+| Iniciación al Desarrollo con IA　　　　　　　 | BIG school  | Feb 2026 |
+| Ciclo de Vida de un Proyecto Internacional | Folder IT   | Oct 2024 |
 
 ---
 
