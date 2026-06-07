@@ -52,8 +52,7 @@
 
 **Databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=whitelogoColor=white)
 
 **Tools & Platforms**
 
@@ -80,26 +79,12 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuniorAlba&theme=great-gatsby&hide_border=true" width="45%" alt="Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=JuniorAlba&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true" width="45%" alt="GitHub Stats"/>
-</div>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorAlba&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact" width="40%" alt="Top Languages"/>
-</div>
-
----
-
 ## 📜 Certifications & Events
 
-| Certification | Institution | Date |
-|:---|:---|:---:|
-| 🤖 Iniciación al Desarrollo con IA | BIG school | Feb 2026 |
-| 🌐 Ciclo de Vida de un Proyecto Internacional | Folder IT | Oct 2024 |
-| 🎓 Expocarreras 2025 – Stand FICH | UNL | Jul 2025 |
+| Certification　　　　　　　　　　　　　　　　 | Institution | Date     |
+| :----------------------------------------------| :------------| :--------:|
+| 🤖 Iniciación al Desarrollo con IA　　　　　　| BIG school  | Feb 2026 |
+| 🌐 Ciclo de Vida de un Proyecto Internacional | Folder IT   | Oct 2024 |
 
 ---
 
